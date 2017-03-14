@@ -1,0 +1,11 @@
+h2{
+  padding:0px 10px;
+}
+div{
+  padding:0px 10px 10px 10px;
+  display:inline-block;
+}
+img{
+  width:200px;
+  padding:10px 10px;
+}
