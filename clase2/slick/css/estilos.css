@@ -1,0 +1,8 @@
+body{
+  background:steelblue;
+}
+.slider{
+  border:solid 5px #fff;
+  max-width:810px;
+  margin:auto;
+}
