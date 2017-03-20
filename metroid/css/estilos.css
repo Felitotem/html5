@@ -1,0 +1,82 @@
+
+header img{
+  width: 100%;
+}
+body{
+  background:#080523;
+}
+.metacon{
+  background:none;
+  width:600px;
+  height: 600px;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+}
+
+.contenedor1{
+    background:none;
+    width:600px;
+    height:200px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:10px ;
+}
+.contenedor2{
+    background:none;
+    width:600px;
+    height:200px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:10px ;
+}
+.contenedor3{
+    background:none;
+    width:600px;
+    height:200px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-left:10px ;
+}
+.item1{
+    background:none;
+    width:150px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item2{
+    background:none;
+    width:150px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item3{
+    background:none;
+    width:150px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div .samus{
+  width:120px;
+}
+div .ridley{
+  width:140px;
+}
+div .metroids{
+  width:120px;
+}
+div div div .word{
+  background: none;
+  font-size: 40px;
+  color:white;
+}
