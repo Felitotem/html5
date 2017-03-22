@@ -1,0 +1,57 @@
+body{
+  background:#efe06e;
+}
+div div .gra{
+  font-size:150px;
+}
+div div .peq{
+  width:400px;
+}
+div .negro{
+  background:black;
+}
+.samus1{
+  background:#ed1c1c;
+  font-size:100px;
+  width:600px;
+  height:600px;
+}
+.imgsamus{
+  width:600px;
+}
+.center{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.samus2{
+  background: #26659b;
+  font-size:70px;
+  width:600px;
+  height:600px;
+}
+.samus3{
+  background: gray;
+  font-size:100px;
+  width:600px;
+  height:600px;
+}
+.samus4{
+  background: #2daf38;
+  font-size:100px;
+  width:600px;
+  height:600px;
+}
+.samus5{
+  background: #c8ce1e;
+  font-size:100px;
+  width:600px;
+  height:600px;
+}
+.samus6{
+  background: grey;
+  color:black;
+  font-size:100px;
+  width:600px;
+  height:600px;
+}
